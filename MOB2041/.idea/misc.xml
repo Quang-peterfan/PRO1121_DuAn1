@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable-v24/ic_lich.xml" value="0.125" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable-v24/ic_money.xml" value="0.125" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/boder_button.xml" value="0.1" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/boderliss.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_add_button_12003.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_add_button_256.xml" value="0.165" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_blue_add_button_12024.xml" value="0.165" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_book.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_books.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_boots_soccer.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_exit.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_exit_arrow.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_football.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_footballfield.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_icon_dollar.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_keys.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_lich.xml" value="0.125" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_lock_open.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_man.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_money_coins_up.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_pencil.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_recept.xml" value="0.1355" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_reshot_icon_menu_z9xkujngw2.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/drawable/ic_user.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/activity_man_hinh_cho.xml" value="0.4" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_chinhsua_thanhvien.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_doi_mk.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_suasach.xml" value="0.2" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_suasan.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_them_phieumuon.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_them_thanhvien.xml" value="0.2" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/dialog_themsach.xml" value="0.2" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_qlloaisach.xml" value="0.2" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_qlloaisan.xml" value="0.4" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_qlphieumuon.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_qlsach.xml" value="0.1" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_qlsan.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_qlthanhvien.xml" value="0.2" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_thongke_doanhthu.xml" value="0.4" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/fragment_thongketop10.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/header_layout.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/item_recycler_loaisach.xml" value="0.6" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/item_recycler_loaisan.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/item_recycler_phieumuon.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/item_recycler_sach.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/item_recycler_thanhvien.xml" value="0.4" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/layout/item_recycler_top10.xml" value="0.16" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/mipmap-anydpi-v26/ic_index.xml" value="0.113" />
+        <entry key="..\:/Users/win/AndroidStudioProjects/MOB2041/app/src/main/res/mipmap-anydpi-v26/ic_index_round.xml" value="0.113" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

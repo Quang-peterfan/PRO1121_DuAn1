@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/conss"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_margin="5dp"
+    android:backgroundTint="#FF9800"
+android:background="@drawable/boderliss">
+
+<TextView
+    android:id="@+id/txtMaSach"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="4dp"
+    android:text="TextView"
+    android:textColor="@color/black"
+    app:layout_constraintEnd_toStartOf="@+id/ivDel"
+    app:layout_constraintStart_toEndOf="@+id/imageView4"
+    app:layout_constraintTop_toTopOf="parent" />
+
+<TextView
+    android:id="@+id/txtTenSach"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:text="TextView"
+    android:textColor="@color/black"
+    app:layout_constraintEnd_toEndOf="@+id/txtMaSach"
+    app:layout_constraintStart_toEndOf="@+id/imageView4"
+    app:layout_constraintTop_toBottomOf="@+id/txtMaSach" />
+
+<TextView
+    android:id="@+id/txtGiaThue"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="4dp"
+    android:text="TextView"
+    android:textColor="@color/black"
+    app:layout_constraintEnd_toStartOf="@+id/ivEdit"
+    app:layout_constraintStart_toEndOf="@+id/imageView4"
+    app:layout_constraintTop_toBottomOf="@+id/txtTenSach" />
+
+<TextView
+    android:id="@+id/txtMaLoai"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="4dp"
+    android:text="TextView"
+    android:textColor="@color/black"
+    app:layout_constraintEnd_toStartOf="@+id/ivEdit"
+    app:layout_constraintStart_toEndOf="@+id/imageView4"
+    app:layout_constraintTop_toBottomOf="@+id/txtGiaThue" />
+
+<ImageView
+    android:id="@+id/ivDel"
+    android:layout_width="35dp"
+    android:layout_height="35dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:srcCompat="@android:drawable/ic_delete" />
+
+<ImageView
+    android:id="@+id/ivEdit"
+    android:layout_width="35dp"
+    android:layout_height="35dp"
+    android:layout_marginTop="32dp"
+    android:layout_marginEnd="8dp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/ivDel"
+    app:srcCompat="@drawable/ic_pencil" />
+
+<ImageView
+    android:id="@+id/imageView4"
+    android:layout_width="41dp"
+    android:layout_height="69dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="24dp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:srcCompat="@drawable/ic_boots_soccer" />
+
+<TextView
+    android:id="@+id/txtTenLoai"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="4dp"
+    android:layout_marginBottom="16dp"
+    android:text="TextView"
+    android:textColor="@color/black"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toStartOf="@+id/ivEdit"
+    app:layout_constraintStart_toEndOf="@+id/imageView4"
+    app:layout_constraintTop_toBottomOf="@+id/txtMaLoai" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+

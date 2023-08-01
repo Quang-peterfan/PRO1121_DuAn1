@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mQLPhieuMuon"
+        android:title="Quản Lý Hóa đơn"
+        android:icon="@drawable/ic_recept"/>
+
+    <item android:id="@+id/mQLLoaiSach"
+        android:title="Quản Lý Loại Sân"
+        android:icon="@drawable/ic_footballfield"/>
+
+    <item android:id="@+id/mQLSach"
+        android:title="Quản Lý Sân"
+        android:icon="@drawable/ic_football"/>
+
+    <item android:id="@+id/mQLThanhVien"
+        android:title="Quản Lý Nhân Viên"
+        android:icon="@drawable/ic_man1"/>
+
+
+    <item android:title="Thống Kê">
+        <menu>
+            <item android:id="@+id/mTop10"
+                android:title="Top 10 sân được thuê"
+                android:icon="@drawable/ic_money_coins_up"/>
+
+            <item android:id="@+id/mDoanhThu"
+                android:title="Doanh Thu"
+                android:icon="@drawable/ic_icon_dollar"/>
+        </menu>
+    </item>
+
+    <item android:title="Người Dùng">
+        <menu>
+            <item android:id="@+id/mDoiMatKhau"
+                android:title="Đổi Mật Khẩu"
+                android:icon="@drawable/ic_keys"/>
+
+            <item android:id="@+id/mExit"
+                android:title="Đăng Xuất"
+                android:icon="@drawable/ic_exit"/>
+        </menu>
+    </item>
+
+</menu>
